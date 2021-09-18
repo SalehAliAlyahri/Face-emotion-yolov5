@@ -15,9 +15,10 @@ this the result of one of the image that model predicted right
 # Run the model 
 to run my model there two ways
  First way  Download the yolov5 repository and make sure to install all libraries then run the command  
-python3 detect.py --source 1 --weights /*/yolov5/best.pt
+python3 detect.py --source 1 --weights /* bath for the weight /yolov5/best.pt
 this will open the webcam for you 
-to use photo or video you can check the yolov5 repository tutorial  
+
+if you want to use photo or video you can check the yolov5 repository tutorial  
 
 Second way  you can run  yolov5_face_emotion.ipynb notebook but you need change the path for the weight
 
