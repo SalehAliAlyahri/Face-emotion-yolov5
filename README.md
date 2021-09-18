@@ -21,3 +21,5 @@ to use photo or video you can check the yolov5 repository tutorial
 
 Second way  you can run  yolov5_face_emotion.ipynb notebook but you need change the path for the weight
 
+# Note 
+this project is not worked perfectly for all face emotions because i trained  the model for 500 photo for all categories and this not enough it need more than 1500 photos for each category to work perfectly. The purpose for this project to understand how the yolov5 works and how can apply the model use photos and videos and webcam.
